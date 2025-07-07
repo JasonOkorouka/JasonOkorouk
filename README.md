@@ -120,7 +120,7 @@ Key Responsibilities:
 -	Company IT Asset management (Inventory, Assigning & retrieval of IT equipment
 
 
-# OTHERTECHNICAL SKILLS
+# OTHER TECHNICAL SKILLS
 CRM Systems | Geographic Information Systems (GIS) | Social Media Usage (Facebook, Twitter, etc.) | Basic Computer Maintenance | Accounting IT-Systems | Equipment Installation and Configuration  | File Management and Data Back-Up | Networking Management E-mail and Internet | Wireless Local Area Networks (WLAN) | Troubleshooting | Technical Support | IT Support | Microsoft Excel, Word, Outlook | Router and Switch Management Local Area Networks (LAN) IT | Ability to make research | CCTV Installation and Configuration | Asset Management.
 
 
