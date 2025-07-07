@@ -123,4 +123,17 @@ Key Responsibilities:
 # OTHER TECHNICAL SKILLS
 CRM Systems | Geographic Information Systems (GIS) | Social Media Usage (Facebook, Twitter, etc.) | Basic Computer Maintenance | Accounting IT-Systems | Equipment Installation and Configuration  | File Management and Data Back-Up | Networking Management E-mail and Internet | Wireless Local Area Networks (WLAN) | Troubleshooting | Technical Support | IT Support | Microsoft Excel, Word, Outlook | Router and Switch Management Local Area Networks (LAN) IT | Ability to make research | CCTV Installation and Configuration | Asset Management.
 
+# Education & Certification
+Federal Polytechnic Nekede, Owerri, Imo State, Nigeria Higher National Diploma (HND) in Computer Science	Oct 2010 – Jun 2013
+
+Abia State Polytechnic Aba Abia State, Nigeria
+National Diploma (ND) in Computer Science                                             Oct 2005 – Jun 2008
+ITIL v3 Foundation ITIL Foundation provides a broad-based understanding of the IT life cycle and the ITIL concepts and terminology.                                                                           Nov 2012
+
+Information Technology Professionals Association ITPA	                          Associate Member
+
+CERTIFIED MANAGER INFORMATION TECHNOLOGY  CMIT                                  2025    
+
+
+
 
